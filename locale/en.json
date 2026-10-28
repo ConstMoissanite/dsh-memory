@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Memory",
+    "description": "Global, workspace, and session memory backed by Markdown and a SQLite FTS5 index; external edits are quarantined and reviewed in a composer bar."
+  }
+}

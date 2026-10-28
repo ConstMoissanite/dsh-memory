@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Memory",
+    "description": "基于 Markdown 与 SQLite FTS5 的全局 / 工作区 / 会话记忆；外部改动会被隔离，并在输入框上方提示审核。"
+  }
+}

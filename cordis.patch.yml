@@ -1,0 +1,14 @@
+# The bundle inserts one Host row. The row's Config is validated in index.js.
+- insert:
+    - id: memory
+      name: dsh-memory
+      config:
+        enabled: true
+        autoInject: true
+        verbosity: 3
+        defaultScope: workspace
+        memoryMaxChars: 2000
+        globalFullMaxChars: 1000
+        maxIndexEntries: 24
+        maxIndexChars: 1200
+        autoCapture: false

@@ -1,0 +1,6 @@
+node_modules/
+index.db
+index.db-*
+*.tgz
+*.zip
+.tmp/
